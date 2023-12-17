@@ -72,7 +72,7 @@
     "react-use-websocket": "^4.2.0",
     "react-window": "^1.8.7",
     "react-xarrows": "^2.0.2",
-    "reaflow": "^5.0.6",
+    "reaflow": "^5.2.7",
     "rehype-raw": "^7.0.0",
     "rehype-sanitize": "^6.0.0",
     "remark-gfm": "^3.0.1",
